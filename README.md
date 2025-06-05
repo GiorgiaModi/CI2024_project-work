@@ -38,7 +38,7 @@ CI2024_project-work/
 ├── data/ # datasets
 ├── plots/ # predicted vs real plots
 ├── project.ipynb # core symbolic regression notebook
-├── s331998.py # solution functions
+├── s330519.py # solution functions
 ├── .gitignore
 └── README.md # this file
 ```
