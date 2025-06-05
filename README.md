@@ -1,6 +1,6 @@
 # CI2024 Project – Symbolic Regression
 
-Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Andrea Delli](https://github.com/RonPlusSign).
+Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Andrea Delli](https://github.com/RonPlusSign). The code was entirely developed in his repository and cloned into this one only upon completion.
 
 ## Problem Statement
 
