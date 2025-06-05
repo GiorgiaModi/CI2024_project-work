@@ -1,6 +1,6 @@
 # CI2024 Project – Symbolic Regression
 
-Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Giorgia Modi](https://github.com/GiorgiaModi).
+Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Andrea Delli](https://github.com/RonPlusSign).
 
 ## Problem Statement
 
@@ -66,17 +66,17 @@ Mean Squared Error (MSE) and full expressions for each target function:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/RonPlusSign">
-        <img src="https://github.com/RonPlusSign.png" width="50px" style="border-radius: 50%; border: none;" alt=""/>
-        <br />
-        <sub>Andrea Delli</sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GiorgiaModi">
         <img src="https://github.com/GiorgiaModi.png" width="50px" style="border-radius: 50%; border: none;" alt=""/>
         <br />
         <sub>Giorgia Modi</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RonPlusSign">
+        <img src="https://github.com/RonPlusSign.png" width="50px" style="border-radius: 50%; border: none;" alt=""/>
+        <br />
+        <sub>Andrea Delli</sub>
       </a>
     </td>
   </tr>
