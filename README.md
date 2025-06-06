@@ -1,6 +1,6 @@
 # CI2024 Project – Symbolic Regression
 
-Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Andrea Delli](https://github.com/RonPlusSign). The code was entirely developed in his repository and cloned into this one only upon completion.
+Final project for the Computational Intelligence course @ Politecnico di Torino. This project was entirely developed in collaboration with my colleague [Andrea Delli](https://github.com/RonPlusSign). The code was entirely developed in his [repository](https://github.com/RonPlusSign/CI2024_project-work) and cloned into this one only upon completion.
 
 ## Problem Statement
 
@@ -38,7 +38,7 @@ CI2024_project-work/
 ├── data/ # datasets
 ├── plots/ # predicted vs real plots
 ├── project.ipynb # core symbolic regression notebook
-├── s331998.py # solution functions
+├── s330519.py # solution functions
 ├── .gitignore
 └── README.md # this file
 ```
